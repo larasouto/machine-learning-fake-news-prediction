@@ -1,8 +1,18 @@
 # Machine Learning Algorithms for Fake News Prediction
 
-### This repository contains a collection of machine learning algorithms for detecting fake news. The algorithms included in this repository have been evaluated and tested for their effectiveness in identifying false information.
 
-The following table shows the hyperparameters we adjusted for each algorithm to control the learning process: 
+![GraphicalAbstract](https://github.com/larasouto/machine-learning-fake-news-prediction/assets/81490646/75cdf424-a0f3-4e6e-8ef3-1c5a7a274dd4)
+
+
+
+
+
+
+#### This repository contains a collection of machine learning algorithms for detecting fake news. The algorithms included in this repository have been evaluated and tested for their effectiveness in identifying false information.
+
+
+
+The following table shows the hyperparameters we adjusted for each algorithm to control the learning process. 
 
 | Algorithm |                                       Hyperparameters                                           |
 |:---------:|:-------------------------------------------------------------------------------------------:    |
