@@ -25,3 +25,21 @@ The following table shows the hyperparameters we adjusted for each algorithm to 
 |    BERT       |          'bert', 'bert-base-uncased', args=model_args, use_cuda=device                      |
 |    BERTimbau  |      ’bert’, ’neuralmind/bert-base-portuguese-cased’, args=model_args, use_cuda=device      |
 
+## How to run the models
+
+To run the Jupyter Notebooks on your computer, you’ll need to install all the requirements.
+
+```
+pip install -r requirements.txt
+```
+
+Once you have all the requirements installed, you can open a command prompt or terminal window, navigate to the directory where the Jupyter Notebooks are located, and then run the command
+
+```
+jupyter notebook
+```
+
+
+
+
+
